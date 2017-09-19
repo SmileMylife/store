@@ -9,7 +9,6 @@
 		<module>taotao-common</module>
 		<module>taotao-manager</module>
 		<module>taotao-manager-web</module>
-		<module>fafa</module>
 	</modules>
 	<properties>
 		<junit.version>4.12</junit.version>
